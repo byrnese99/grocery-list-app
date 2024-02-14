@@ -2,8 +2,8 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: "Protest Riot", sans-serif;
-    background-color: #F0F3BD;
-    color: #694C3F;
+    background-color: #bdf3e9;
+    color: #3f5369;
     user-select: none;
 }
 
@@ -20,7 +20,7 @@ img {
 }
 
 input {
-    background-color: rgb(225, 228, 183);
+    background-color: rgb(183, 228, 217);
     border: 0;
     padding: 15px;
     border-radius: 25px;
@@ -31,7 +31,7 @@ input {
 }
 
 button {
-    color: #F0F3BD;
+    color: #bdf3e9;
     background-color: #00A896;
     border: 0;
     padding: 15px;
@@ -55,7 +55,7 @@ ul {
 }
 
 ul li {
-    background-color: #B5E7B5;
+    background-color: #b5dfe7;
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
     padding: 15px;
     border: none;
@@ -66,6 +66,6 @@ ul li {
 }
 
 ul li:hover {
-    background-color: #79DBAC;
+    background-color: #79badb;
     cursor: pointer;
 }
